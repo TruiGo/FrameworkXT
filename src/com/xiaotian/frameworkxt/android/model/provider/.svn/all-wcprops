@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/app/!svn/ver/23/android/FrameworkXT/src/com/xiaotian/frameworkxt/android/model/provider
+END
+UtilContentUriMatcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/app/!svn/ver/23/android/FrameworkXT/src/com/xiaotian/frameworkxt/android/model/provider/UtilContentUriMatcher.java
+END
+UtilSQLContentProviderAnnotation.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/app/!svn/ver/23/android/FrameworkXT/src/com/xiaotian/frameworkxt/android/model/provider/UtilSQLContentProviderAnnotation.java
+END
+SQLContentProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/app/!svn/ver/23/android/FrameworkXT/src/com/xiaotian/frameworkxt/android/model/provider/SQLContentProvider.java
+END
+SQLTableContentProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/app/!svn/ver/23/android/FrameworkXT/src/com/xiaotian/frameworkxt/android/model/provider/SQLTableContentProvider.java
+END

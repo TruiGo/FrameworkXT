@@ -1,0 +1,49 @@
+10
+
+dir
+23
+http://192.168.1.99:8888/repos/app/android/FrameworkXT/src/com/xiaotian/frameworkxt
+http://192.168.1.99:8888/repos/app
+
+
+
+2015-03-20T03:23:26.411426Z
+23
+tianrui
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+679dff03-0aa4-4eda-89e7-e8d6e35b17cc
+
+android
+dir
+
+common
+dir
+
+control
+dir
+
+model
+dir
+
+net
+dir
+
+serializer
+dir
+
+util
+dir
+

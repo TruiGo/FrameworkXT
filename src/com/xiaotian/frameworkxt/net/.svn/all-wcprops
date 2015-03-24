@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/app/!svn/ver/23/android/FrameworkXT/src/com/xiaotian/frameworkxt/net
+END
+HttpTool.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/app/!svn/ver/23/android/FrameworkXT/src/com/xiaotian/frameworkxt/net/HttpTool.java
+END
+HttpAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/app/!svn/ver/23/android/FrameworkXT/src/com/xiaotian/frameworkxt/net/HttpAction.java
+END
+HttpProperty.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/app/!svn/ver/23/android/FrameworkXT/src/com/xiaotian/frameworkxt/net/HttpProperty.java
+END
+JSSEProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/app/!svn/ver/23/android/FrameworkXT/src/com/xiaotian/frameworkxt/net/JSSEProvider.java
+END
+HttpServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/app/!svn/ver/23/android/FrameworkXT/src/com/xiaotian/frameworkxt/net/HttpServer.java
+END
+HttpNetworkException.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/app/!svn/ver/23/android/FrameworkXT/src/com/xiaotian/frameworkxt/net/HttpNetworkException.java
+END
+UtilHttpAnnotation.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/app/!svn/ver/23/android/FrameworkXT/src/com/xiaotian/frameworkxt/net/UtilHttpAnnotation.java
+END
+HttpAnnotationException.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/app/!svn/ver/23/android/FrameworkXT/src/com/xiaotian/frameworkxt/net/HttpAnnotationException.java
+END
+HttpConnector.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/app/!svn/ver/23/android/FrameworkXT/src/com/xiaotian/frameworkxt/net/HttpConnector.java
+END
+HttpParam.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/app/!svn/ver/23/android/FrameworkXT/src/com/xiaotian/frameworkxt/net/HttpParam.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/app/!svn/ver/23/android/FrameworkXT/src/com/xiaotian/frameworkxt/net/package-info.java
+END
+HttpServerConnector.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/app/!svn/ver/23/android/FrameworkXT/src/com/xiaotian/frameworkxt/net/HttpServerConnector.java
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/app/!svn/ver/23/android/FrameworkXT/src/com/xiaotian/frameworkxt/serializer/json
+END
+JSONEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/app/!svn/ver/23/android/FrameworkXT/src/com/xiaotian/frameworkxt/serializer/json/JSONEntity.java
+END
+JSONSerializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/app/!svn/ver/23/android/FrameworkXT/src/com/xiaotian/frameworkxt/serializer/json/JSONSerializer.java
+END
+JSONSerializingException.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/app/!svn/ver/23/android/FrameworkXT/src/com/xiaotian/frameworkxt/serializer/json/JSONSerializingException.java
+END
+JSONMethod.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/app/!svn/ver/23/android/FrameworkXT/src/com/xiaotian/frameworkxt/serializer/json/JSONMethod.java
+END
+UtilJSONAnnotation.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/app/!svn/ver/23/android/FrameworkXT/src/com/xiaotian/frameworkxt/serializer/json/UtilJSONAnnotation.java
+END
+JSONField.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/app/!svn/ver/23/android/FrameworkXT/src/com/xiaotian/frameworkxt/serializer/json/JSONField.java
+END
+JSONParameter.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/app/!svn/ver/23/android/FrameworkXT/src/com/xiaotian/frameworkxt/serializer/json/JSONParameter.java
+END

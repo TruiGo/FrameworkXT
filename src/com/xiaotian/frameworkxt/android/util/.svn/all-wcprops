@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/app/!svn/ver/23/android/FrameworkXT/src/com/xiaotian/frameworkxt/android/util
+END
+UtilUseShareProperty.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/app/!svn/ver/23/android/FrameworkXT/src/com/xiaotian/frameworkxt/android/util/UtilUseShareProperty.java
+END
+UtilRandomVerificationCodeImage.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/app/!svn/ver/23/android/FrameworkXT/src/com/xiaotian/frameworkxt/android/util/UtilRandomVerificationCodeImage.java
+END
+UtilNotification.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/app/!svn/ver/23/android/FrameworkXT/src/com/xiaotian/frameworkxt/android/util/UtilNotification.java
+END
+UtilSystemIntent.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/app/!svn/ver/23/android/FrameworkXT/src/com/xiaotian/frameworkxt/android/util/UtilSystemIntent.java
+END
+UtilTextFace.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/app/!svn/ver/23/android/FrameworkXT/src/com/xiaotian/frameworkxt/android/util/UtilTextFace.java
+END
+UtilUri.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/app/!svn/ver/23/android/FrameworkXT/src/com/xiaotian/frameworkxt/android/util/UtilUri.java
+END
+UtilUriMatcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/app/!svn/ver/23/android/FrameworkXT/src/com/xiaotian/frameworkxt/android/util/UtilUriMatcher.java
+END
+UtilColor.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/app/!svn/ver/23/android/FrameworkXT/src/com/xiaotian/frameworkxt/android/util/UtilColor.java
+END
+UtilSDKVersion.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/app/!svn/ver/23/android/FrameworkXT/src/com/xiaotian/frameworkxt/android/util/UtilSDKVersion.java
+END
+UtilAsyncTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/app/!svn/ver/23/android/FrameworkXT/src/com/xiaotian/frameworkxt/android/util/UtilAsyncTask.java
+END
+UtilVibrator.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/app/!svn/ver/23/android/FrameworkXT/src/com/xiaotian/frameworkxt/android/util/UtilVibrator.java
+END
+UtilBroadcastReceiverToast.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/app/!svn/ver/23/android/FrameworkXT/src/com/xiaotian/frameworkxt/android/util/UtilBroadcastReceiverToast.java
+END
+UtilDevice.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/app/!svn/ver/23/android/FrameworkXT/src/com/xiaotian/frameworkxt/android/util/UtilDevice.java
+END
+UtilConnectivityManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/app/!svn/ver/23/android/FrameworkXT/src/com/xiaotian/frameworkxt/android/util/UtilConnectivityManager.java
+END
+UtilRawResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/app/!svn/ver/23/android/FrameworkXT/src/com/xiaotian/frameworkxt/android/util/UtilRawResource.java
+END
+UtilEnvironment.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/app/!svn/ver/23/android/FrameworkXT/src/com/xiaotian/frameworkxt/android/util/UtilEnvironment.java
+END

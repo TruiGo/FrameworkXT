@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/app/!svn/ver/23/android/FrameworkXT/src/com/xiaotian/frameworkxt/android/model
+END
+SQLTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/app/!svn/ver/23/android/FrameworkXT/src/com/xiaotian/frameworkxt/android/model/SQLTable.java
+END
+SQLColumnType.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/app/!svn/ver/23/android/FrameworkXT/src/com/xiaotian/frameworkxt/android/model/SQLColumnType.java
+END
+UtilSQLEntityAnnotation.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/app/!svn/ver/23/android/FrameworkXT/src/com/xiaotian/frameworkxt/android/model/UtilSQLEntityAnnotation.java
+END
+SQLId.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/app/!svn/ver/23/android/FrameworkXT/src/com/xiaotian/frameworkxt/android/model/SQLId.java
+END
+SQLDataBaseHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/app/!svn/ver/23/android/FrameworkXT/src/com/xiaotian/frameworkxt/android/model/SQLDataBaseHelper.java
+END
+UtilDataBaseConstructer.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/app/!svn/ver/23/android/FrameworkXT/src/com/xiaotian/frameworkxt/android/model/UtilDataBaseConstructer.java
+END
+SQLIdText.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/app/!svn/ver/23/android/FrameworkXT/src/com/xiaotian/frameworkxt/android/model/SQLIdText.java
+END
+SQLColumn.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/app/!svn/ver/23/android/FrameworkXT/src/com/xiaotian/frameworkxt/android/model/SQLColumn.java
+END
+SQLDataSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/app/!svn/ver/23/android/FrameworkXT/src/com/xiaotian/frameworkxt/android/model/SQLDataSource.java
+END
+SQLPersister.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/app/!svn/ver/23/android/FrameworkXT/src/com/xiaotian/frameworkxt/android/model/SQLPersister.java
+END
+SQLEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/app/!svn/ver/23/android/FrameworkXT/src/com/xiaotian/frameworkxt/android/model/SQLEntity.java
+END
+SQLException.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/app/!svn/ver/23/android/FrameworkXT/src/com/xiaotian/frameworkxt/android/model/SQLException.java
+END

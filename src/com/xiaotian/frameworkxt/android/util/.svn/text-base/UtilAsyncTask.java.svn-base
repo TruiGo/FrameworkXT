@@ -1,0 +1,27 @@
+package com.xiaotian.frameworkxt.android.util;
+
+import android.annotation.TargetApi;
+import android.os.AsyncTask;
+
+/**
+ * 
+ * @version 1.0.0
+ * @author XiaoTian
+ * @name UtilAsyncTask
+ * @description AsyncTask
+ * @date Nov 4, 2014
+ * @link gtrstudio@qq.com
+ * @copyright Copyright © 2009-2014 广州隽永贸易科技 Ltd, All Rights Reserved.
+ */
+public class UtilAsyncTask {
+
+	@TargetApi(android.os.Build.VERSION_CODES.HONEYCOMB)
+	public static <Params, Progress, Result> void executeAsyncTask(AsyncTask<Params, Progress, Result> task, Params... params) {
+		if (android.os.Build.VERSION.SDK_INT >= 11) {
+			// android.os.Build.VERSION_CODES.HONEYCOMB
+			task.executeOnExecutor(AsyncTask.THREAD_POOL_EXECUTOR, params);
+		} else {
+			task.execute(params);
+		}
+	}
+}

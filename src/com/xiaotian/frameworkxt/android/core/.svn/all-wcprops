@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/app/!svn/ver/23/android/FrameworkXT/src/com/xiaotian/frameworkxt/android/core
+END
+ImageDownloader.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/app/!svn/ver/23/android/FrameworkXT/src/com/xiaotian/frameworkxt/android/core/ImageDownloader.java
+END
+BaseImageDownloader.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/app/!svn/ver/23/android/FrameworkXT/src/com/xiaotian/frameworkxt/android/core/BaseImageDownloader.java
+END
+ContentLengthInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/app/!svn/ver/23/android/FrameworkXT/src/com/xiaotian/frameworkxt/android/core/ContentLengthInputStream.java
+END
+IoUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/app/!svn/ver/23/android/FrameworkXT/src/com/xiaotian/frameworkxt/android/core/IoUtils.java
+END
